@@ -1,0 +1,19 @@
+{
+  "name": "httpuppercase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convert",
+    "post",
+    "data",
+    "to",
+    "upper",
+    "case"
+  ],
+  "author": "Kamaldeep Kaur Sekhon",
+  "license": "ISC"
+}
